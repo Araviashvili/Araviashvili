@@ -36,7 +36,7 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 ---
 
 #### 🚀 Current Focus
-* **Shieldwise Platform:** Engineering internal tools for automated evidence collection and platform stability.
+* **Shieldwise Platform:** Engineering simulation engines and scaling our localized training platform.
 * **Software Engineering:** Studying **Go** for building robust backend systems and infrastructure.
 * **Cybersecurity Research:** Deep-diving into network defense, privacy protocols, and data protection.
 * **Game Development:** Refining physics-based mechanics and optimized VFX systems.
