@@ -47,7 +47,4 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Araviashvili.vazha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vazha@shieldwise.ge)
 
-<p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Araviashvili&label=PROFILE+VIEWS&color=0078d7&style=flat-square" alt="Visitor Count" />
-</p>
+
