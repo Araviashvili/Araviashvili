@@ -49,6 +49,5 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 
 <p align="center">
   <br>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Araviashvili/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Araviashvili&label=PROFILE+VIEWS&color=0078d7&style=flat-square" alt="Visitor Count" />
 </p>
