@@ -20,12 +20,12 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 
 **Languages & Systems Architecture**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,ts,dotnet,nodejs,fastapi,arduino,cisco" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,ts,dotnet,nodejs,fastapi,arduino,cisco,lua" />
 </p>
 
 **Full-Stack & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,postgres,mongodb,mysql,oracle,azure,gcp,vercel,lua" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,postgres,mongodb,mysql,oracle,azure,gcp,vercel" />
 </p>
 
 **Creative & Product Ops**
