@@ -44,7 +44,7 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 ---
 
 ### 🍿 Recently Watched
-![Last Watched](https://recomendinator.vercel.app/api/badge/watched?user=araviashvili)
+![Last Watched](https://recomendinator.vercel.app/api/badge/watched?user=Araviashvili)
 
 ---
 
