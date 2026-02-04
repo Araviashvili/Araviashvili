@@ -43,6 +43,11 @@ As CTO, I lead the technical roadmap for our learning platform and curriculum de
 
 ---
 
+### 🍿 Recently Watched
+![My Movie History](https://recomendinator.vercel.app/api/badge/watched?user=Araviashvili)
+
+---
+
 #### 📫 Reach Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Araviashvili.vazha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vazha@shieldwise.ge)
