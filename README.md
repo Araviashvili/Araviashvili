@@ -67,9 +67,9 @@ As CTO, I own the technical roadmap for our learning platform and curriculum:
 
 ## ⚡ Off the Clock
 
-- 📚 **Comics & manga collector** — physical trades and character-driven runs: *Daredevil*, *Moon Knight*, *Nightcrawler*, *Gambit*, *Ben Reilly / Scarlet Spider*.
-- 🎵 **Vinyl** — from Leonard Cohen to Gorillaz to Kiss.
-- 🎮 **Game scripting** — Luau mechanics, physics and VFX experiments.
+- 📚 **Comics & manga collector** 
+- 🎵 **Vinyl** 
+- 🎮 **Game scripting**
 
 ---
 
