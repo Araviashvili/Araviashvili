@@ -35,13 +35,7 @@ As CTO, I own the technical roadmap for our learning platform and curriculum:
 - **Security research** — network defense, privacy protocols and data protection.
 - **Game development** — physics-based mechanics and optimized VFX systems.
 
-## 📦 Projects
 
-| Project | What it is |
-|---|---|
-| 🛡️ **Shieldwise** | Security-awareness microlearning and threat simulation for organizations in Georgia |
-| 🎬 **[Recomendinator](https://recomendinator.vercel.app)** | Track the movies and series you watch, with dynamic SVG badges for your GitHub profile (see below) |
-| 📚 **Librarynator** | A Next.js catalog for a physical library of books, graphic novels and manga |
 
 ## 🛠️ Technical Arsenal
 
